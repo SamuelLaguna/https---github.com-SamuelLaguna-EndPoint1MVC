@@ -1,0 +1,6 @@
+@MiniCH1MVC_HostAddress = http://localhost:5095
+
+GET {{MiniCH1MVC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
